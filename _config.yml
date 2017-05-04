@@ -2,9 +2,9 @@
 permalink:           pretty
 
 # Setup
-title:               Poole
+title:               杨骄龙的博客
 tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+url:                 https://longlivesocialism.github.io/2016/01/03/introduction/
 paginate:            1
 baseurl:             ""
 
@@ -13,7 +13,7 @@ baseurl:             ""
 # We specify the directory for Jekyll so we can use @imports.
 sass:
   sass_dir:          _sass
-  style:            :compressed
+  style:            :hyde
 
 # About/contact
 author:
